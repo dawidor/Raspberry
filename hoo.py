@@ -1,0 +1,1 @@
+/home/pi/assistant-sdk-python/google-assistant-sdk/googlesamples/assistant/library/hotword.py
